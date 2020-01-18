@@ -22,8 +22,8 @@ function dec(n) {
   return --n
 }
 
-function makeInt(n , 10) {
-  return parseInt(n)
+function makeInt(a , 10) {
+  return parseInt(a)
 }
 
 function preserveDecimal(n) {
