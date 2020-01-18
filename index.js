@@ -23,7 +23,7 @@ function dec(n) {
 }
 
 function makeInt(n , 10) {
-n = Math.floor(Math.random()
+
   return parseInt(n)
 }
 
